@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ed057bdd05a20e4a9f3c73f3322a73f, type: 3}
+  m_Name: PointDataContainer
+  m_EditorClassIdentifier: 
+  baseMaterial: {fileID: 2100000, guid: 2a6c8fdceeee488418663a46854ab545, type: 2}
+  generatedColorMaterials:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  carPrefabs:
+  - {fileID: 589777206757736251, guid: 27d39ae1b343b4b4c9ed0a261c0b33bf, type: 3}
+  - {fileID: 6107742545484458789, guid: bbc2332a9b560ee499a12d65d7300943, type: 3}
+  - {fileID: 1096950876969077120, guid: cf01237305c707549a8e3761b2d5e5b2, type: 3}
+  - {fileID: 8539716075643297459, guid: efd9987c98ef94846a33486269aa56f4, type: 3}
+  - {fileID: 1510173084001545072, guid: ccab77c975b3dd24489e1708f21808c7, type: 3}
+  - {fileID: 1587815401973127524, guid: 04757ba0f890b8449956d6b4efd8c205, type: 3}
